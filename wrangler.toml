@@ -1,8 +1,6 @@
-name = "cent"
+name = "cent-static"
 compatibility_date = "2025-12-23"
-
-type = "assets"
-account_id = ""
+main = "workers-site/index.js"
 
 [site]
 bucket = "./dist"
