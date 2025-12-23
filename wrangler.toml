@@ -1,6 +1,0 @@
-name = "cent"
-compatibility_date = "2025-12-23"
-main = "workers-site/index.js"
-
-[site]
-bucket = "./dist"
