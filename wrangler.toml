@@ -1,0 +1,8 @@
+name = "cent"
+compatibility_date = "2025-12-23"
+
+type = "assets"
+account_id = ""
+
+[site]
+bucket = "./dist"
